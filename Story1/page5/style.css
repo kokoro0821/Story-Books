@@ -1,8 +1,11 @@
 body {
-    background: url(Page5.jpeg) no-repeat;
-    background-size: cover;e-beast.jpg?quality=85&w=7
+    background: url("Page5.jpeg");
+    background-size: contain;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
-header h1{U
+header h1{
     text-align: center;
 }
 

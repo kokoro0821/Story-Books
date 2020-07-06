@@ -1,6 +1,9 @@
 body {
-    background: url("Page10jpeg")no-repeat;
-    background-size:cover;
+    background: url("Page10.jpeg")no-repeat;
+    background-size: contain;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 header h1{
     text-align: center;
